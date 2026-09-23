@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nyarerukevin18-hue.github.io/bobasi-faith-hope-home/sitemap.xml
